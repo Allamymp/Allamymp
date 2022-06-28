@@ -1,7 +1,7 @@
 ### Oi, eu sou o Allamy ✌😎
 
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas ( IFPE 2021.1)
-- 🌱 Estudando Java, CSS, Html e JS.
+- 🌱 Estudando CSS, Html, JS e React.
 - 📫 Email : allamympereira@gmail.com
 - 😄 Pronome: Ele/Dele
 ## 
