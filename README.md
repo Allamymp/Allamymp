@@ -19,7 +19,6 @@ Hello, I’m Allamy, a student of Systems Analysis and Development at the Federa
   <li>🖥️ Java, Kotlin, Angular, Html/CSS, JavaScript, Spring Framework</li>
   <li>📅 Programming since 2019 </li>
   <li>📚 Student of Systems Analysis and Development at the Federal Institute of Pernambuco </li>
-  <li>🔧 Fell in love with FOSS (Free and open-source software) and custom software development in 2023 during operating systems and software classes, since then I've been pursuing carrer in software dev </li>
   <li>💻 Now developing a variety of applications, from web API RESTful, mobile apps with kotlin and others.</li>
   <li>🤩 In Love to build any application, in any language, as long I'm being challenged!</li>
   <li>❤️ Enthusiastic CS student and eternal learner</li>
