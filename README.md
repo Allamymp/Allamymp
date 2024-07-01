@@ -31,9 +31,11 @@ Hello, I’m Allamy, a student of Systems Analysis and Development at the Federa
 
 ### 🔭 My biggest Projects:
 
-| **Freelancing** | **Bash, Go, Python, JavaScript, C#** |
+| **CoinAPI** | 
 | --- | --- |
-|• [************](#private) - Web Automation bot for ** made with playwright, captcha solving with OpenCV, integration with the already built client's infrastructure, and friendly end-user UI control panel, made with Python + libs <br>• [************](#private) - Web automation application portability from Windows and UI to Linux and CLI to run as a service in Server/AWS, API to control each instance and consume/sending data and status <br>• [************](#private) - Self generated blog website, with gemini API's endpoints to articles generation, HTML/CSS/Bootstrap in the FE and Django + PostgreSQL in the BE |• [Unnamed](#private) - Victoria 3 in modern times, made entirely to be runned in browser, made with React and GO, that's my flagship project <br>• [Open ChatGPT](#Private) - 100% free ChatGPT API made with Playwright and EFCore implemented in C#<br>• [Unnamed](#Private) - powerful and easy to use CLI tool, .bashrc config manager for Linux implemented in GO <br> |
+
+|• [************](#private) - CoinAPI is a project developed in Java and Spring Framework that allows users to check the real-time value of cryptocurrencies via CoinGecko. The project enables user creation and management, authentication via Spring Security, email sending via Java Mail, and RESTful endpoints.
+<br>• 
 
 <!-- End Projects Section -->
 
