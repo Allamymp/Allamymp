@@ -47,8 +47,5 @@ Hello, I’m Allamy, a student of Systems Analysis and Development at the Federa
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="screen divisor">
 <img align="center" title="last month contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Allamymp&theme=github-dark"/>
   </div>
-<div  align='center'>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="screen divisor">
-  <img height='500px' title="Time stamp in each language" src="https://github-readme-stats.vercel.app/api/wakatime?username=Allamymp&icons=true&bg_color=0d1117&icon_color=041ED8&layout=compact&text_color=FFFFFF" alt="Time stamp in each language">
-</div>
+
 
