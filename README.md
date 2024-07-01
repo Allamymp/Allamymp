@@ -30,7 +30,9 @@ Hello, I’m Allamy, a student of Systems Analysis and Development at the Federa
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="screen divisor">
 
 ### 🔭 My biggest Projects:
-|• [************](#CoinAPI) - CoinAPI is a project developed in Java and Spring Framework that allows users to check the real-time value of cryptocurrencies via CoinGecko. The project enables user creation and management, authentication via Spring Security, email sending via Java Mail, and RESTful endpoints.
+|• <a href="https://github.com/Allamymp/coinApiPortfolio/tree/main">
+    <button>CoinAPI</button>
+</a>- CoinAPI is a project developed in Java and Spring Framework that allows users to check the real-time value of cryptocurrencies via CoinGecko. The project enables user creation and management, authentication via Spring Security, email sending via Java Mail, and RESTful endpoints.
 <br>• 
 
 <!-- End Projects Section -->
