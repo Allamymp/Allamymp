@@ -1,5 +1,5 @@
 <!-- debian + i3wm + warp + nvim + nushell + ranger + starship + batcat + exa + ripgrep + uutils -->
-<img width=100% src="[https://capsule-render.vercel.app/api?type=waving&color=041ED8&height=120&section=header&text=Allamy&fontColor=FFFFFF&textBg=false](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Allamy&fontAlign=50&section=header&reversal=false&animation=blink)" title="welcome! I'm Allamy" alt="welcome! I'm Allamy" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Allamy&fontAlign=50&section=header&reversal=false&animation=blink" title="welcome! I'm Allamy" alt="welcome! I'm Allamy" />
 <p align="center">
   <a href="https://wakatime.com/@018b9094-810a-46fe-95a2-26581d14bd78">
     <img src="https://komarev.com/ghpvc/?username=Allamymp&style=flat&color=313131&label=views" title="last weeks profile views" style="margin-right=20px"> <img src="https://wakatime.com/badge/user/018b9094-810a-46fe-95a2-26581d14bd78.svg" title="Wakatime's time spent programming badge" alt="Wakatime Badge">
