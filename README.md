@@ -22,7 +22,7 @@ Hello, I’m Allamy, a student of Systems Analysis and Development at the Federa
   <li>💻 Now developing a variety of applications, from web API RESTful, mobile apps with kotlin and others.</li>
   <li>🤩 In Love to build any application, in any language, as long I'm being challenged!</li>
   <li>❤️ Enthusiastic CS student and eternal learner</li>
-  <li>📫 Contact me via <a href="mailto:allamympereira@gmail.com">allamympereira@gmail.com</a> or via <a href="https://www.linkedin.com/in/allamy-m-pereira/">LinkedIn</a></li>
+  <li>📫 Contact me via <a href="mailto:allamympereira@gmail.com">email</a> or via <a href="https://www.linkedin.com/in/allamy-m-pereira/">LinkedIn</a></li>
 </ul>
 <br>
 <!-- Projects Section-->
