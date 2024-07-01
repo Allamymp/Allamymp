@@ -2,7 +2,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Allamy&fontAlign=50&section=header&reversal=false&animation=blink" title="welcome! I'm Allamy" alt="welcome! I'm Allamy" />
  <a href="https://wakatime.com/@018b9094-810a-46fe-95a2-26581d14bd78">
     <img src="https://komarev.com/ghpvc/?username=Allamymp&style=flat&color=313131&label=views" title="last weeks profile views" style="margin-right=20px"> 
-    <img src="https://wakatime.com/badge/github/Allamymp/Allamymp.svg" title="Wakatime's time spent programming badge" alt="Wakatime Badge">
+    <img src="https://wakatime.com/badge/github/Allamymp/Allamymp.svg" title="Wakatime's time spent programming badge" alt="Wakatime Badge"> </a>
+</p>
+
+
+ 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="screen divisor">
 <p>I’m Yuri, a student of Systems Analysis and Development at the Federal Institute of Pernambuco, where I am a participant in the institution's competitive programming club, and I also study Telecommunications/Networks at the same institution btw. I've been a daily computer user since I was 2 years old, althought between comings and goings in the area of programming with batch and python, I only consider that I started programming in 2020, initially developing my own games prototypes in Unity/UE4 using C/C++, and creating mods for my favorite games by Paradox Interactive and Minecraft.
