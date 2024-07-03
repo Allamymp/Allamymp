@@ -19,7 +19,7 @@ Hello, I’m Allamy, a student of Systems Analysis and Development at the Federa
   <li>🖥️ Java, Kotlin, Angular, Html/CSS, JavaScript, Spring Framework</li>
   <li>📅 Programming since 2019 </li>
   <li>📚 Student of Systems Analysis and Development at the Federal Institute of Pernambuco </li>
-  <li>💻 Now developing a variety of applications, from web API RESTful, mobile apps with kotlin and others.</li>
+  <li>💻 studying to become a blue team</li>
   <li>🤩 In Love to build any application, in any language, as long I'm being challenged!</li>
   <li>❤️ Enthusiastic CS student and eternal learner</li>
   <li>📫 Contact me via <a href="mailto:allamympereira@gmail.com">email</a> or via <a href="https://www.linkedin.com/in/allamy-m-pereira/">LinkedIn</a></li>
